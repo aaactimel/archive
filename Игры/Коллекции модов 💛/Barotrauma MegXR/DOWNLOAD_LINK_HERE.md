@@ -4,9 +4,14 @@
 
 ### ✅ ЗАГРУЗКА 
 
+#### ❔ v1.0.0
 - [Через GoFile](https://gofile.io/d/8688e32d-4f48-4e6e-916a-f1f048327be1) **[Если ссылка истекла, создайте *Issue*]**
 - [Через Pixeldrain (bypass)](https://pd.cybar.xyz/e6JKBqYr)
 - [Через Buzzheavier](https://buzzheavier.com/unwqcnkwt102) (`SHA-1:926ec94adba8ad2e3f6cad2b965a6b8f3ec53c92`) **[Если ссылка истекла, создайте *Issue*]**
+
+#### ❔ v1.1.0
+##### + `Добавлены патчи, исправлены ошибки`
+- Ссылок нету
 
 ---
 
